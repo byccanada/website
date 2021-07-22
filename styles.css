@@ -1,0 +1,25 @@
+#header{
+
+    text-align: center;
+}
+#name{
+    color: rgb(252, 156, 0);
+}
+
+table.center {
+    margin-left: auto; 
+    margin-right: auto;
+    font-size: larger;
+  }
+tr{
+   
+    text-align: center;
+
+}
+
+td{
+    padding: 20px;
+}
+body{
+    background-color: rgb(247, 248, 249);
+}
